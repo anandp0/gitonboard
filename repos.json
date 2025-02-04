@@ -1,0 +1,8 @@
+{
+        "https://github.com/anandp0/jaffle_shop": {
+            "path": "/appz/home/airflow/dags/dbt/jaffle_shop",
+            "branch": "main",
+            "email": ["apeethambaran@ecloudcontrol.com"],
+            "group": "data-eng"
+        }        
+}
