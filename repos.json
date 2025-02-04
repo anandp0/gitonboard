@@ -4,5 +4,11 @@
             "branch": "main",
             "email": ["apeethambaran@ecloudcontrol.com"],
             "group": "data-eng"
-        }        
+        },
+        "https://github.com/anandp0/airflowdags": {
+            "path": "/appz/home/airflow/dags/airflow_dags",
+            "branch": "main",
+            "email": ["apeethambaran@ecloudcontrol.com"],
+            "group": "data-eng"
+        }         
 }
